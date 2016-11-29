@@ -1,0 +1,6 @@
+bin/*
+!bin/.keep
+src/*.o
+cases/**/[0-9]/
+cases/**/log.*
+cases/**/polyMesh/
